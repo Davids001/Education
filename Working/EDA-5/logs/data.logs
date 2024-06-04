@@ -1,0 +1,11 @@
+INFO: 2024-05-21 13:52:58,262: Data: Medical Appointment No Shows
+INFO: 2024-05-21 13:52:58,265: Data shape (110527, 14): Medical Appointment No Shows
+INFO: 2024-05-21 13:52:58,286: Percentage of women: 0.653882342398853: Medical Appointment No Shows
+INFO: 2024-05-21 13:52:58,304: Percentage of men: 0.346117657601147: Medical Appointment No Shows
+ERROR: 2024-05-21 14:13:42,374: Data shape is incorrect!: Medical Appointment No Shows
+ERROR: 2024-05-21 14:14:27,076: Data shape is incorrect!: Medical Appointment No Shows
+INFO: 2024-05-22 12:39:12,293: Data: Medical Appointment No Shows
+INFO: 2024-05-22 12:39:12,303: Data shape (110527, 14): Medical Appointment No Shows
+INFO: 2024-05-22 12:39:12,327: Percentage of women: 0.653882342398853: Medical Appointment No Shows
+INFO: 2024-05-22 12:39:12,345: Percentage of men: 0.346117657601147: Medical Appointment No Shows
+ERROR: 2024-05-22 12:39:19,433: Data shape is incorrect!: Medical Appointment No Shows
